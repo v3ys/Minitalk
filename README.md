@@ -6,7 +6,7 @@ Minitalk is a small data exchange program that allows communication between two 
 
 Clone the project files from GitHub:
 
-    git clone https://github.com/menasy/Minitalk
+    git clone https://github.com/v3ys/Minitalk
 
 Enter the project directory:
 
